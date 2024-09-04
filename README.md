@@ -13,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nirzhuk)](https://git.io/streak-stats)
 
-![Nirzhuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&count_private=true)
+![Nirzhuk's GitHub stats](https://github-readme-stats-private-nirzhuk.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&theme=tokyonight&count_private=true)
 
 
 </details>
