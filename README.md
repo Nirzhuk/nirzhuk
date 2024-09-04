@@ -1,8 +1,6 @@
-### Hello there!
-
-
 
 # Hello! :raised_hands:
+
 * Full-stack engineer
 * Currently traveling around asia
 * Love listening to Mitski, graphic designing, and playing video games
@@ -15,7 +13,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nirzhuk)](https://git.io/streak-stats)
 
-![Nirzhuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)
+![Nirzhuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&count_private=true)
 
 
 </details>
@@ -23,7 +21,7 @@
 
 
 # Languages & Tools
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
 & More 
 
 # Reach me
