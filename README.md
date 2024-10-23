@@ -19,8 +19,9 @@
  
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=&theme=prussian&background=EBEBEB00" alt="GitHub Streak" /></a>
-  <a href="https://github-readme-stats-private-nirzhuk.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&theme=tokyonight&count_private=true&background=FFFFFF00"><img src="https://github-readme-stats-private-nirzhuk.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&theme=tokyonight&count_private=true&background=FFFFFF00" alt="Private stats" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Nirzhuk&theme=prussian&background=EBEBEB00" alt="GitHub Streak" /></a>
+
+  <a href="https://github-readme-stats-private-nirzhuk.vercel.app/api?username=nirzhuk&show_icons=true&theme=transparent&theme=tokyonight&count_private=true&background=FFFFFF00"><img src="https://github-readme-stats-private-nirzhuk.vercel.app/api?username=nirzhuk&show_icons=true&theme=tokyonight&theme=darcula&hide_border=true&background=FFFFFF00" alt="Private stats" /></a>
 
 </p>
 
